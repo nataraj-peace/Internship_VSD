@@ -18,3 +18,7 @@ and GPIO control on the VSDSquadron Mini board using clean firmware architecture
 - PlatformIO uses the RISC-V Embedded GCC toolchain (riscv-none-elf-gcc) 
 - Provided by the package toolchain-riscv
 - WCH’s NoneOS SDK and WCH-OpenOCD for compiling and flashing the CH32V003F4U6.
+
+## Commands used to Build & Upload
+- pio run -v
+- pio run -t upload
