@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> df9e1bc (Task commit)
 ---
 # Task-2 Hardware Execution Evidence
 
@@ -23,9 +26,16 @@ synchronized with UART counter messages.
 ![UART Log](./picture/Uart.png)
 
 ### UART Video
+<<<<<<< HEAD
 - ./vedios/Uart_Vedio.mp4
 
 ### GPIO Video
 - ./vedios/GPIO_vedio.mp4
 
 
+=======
+- ./vedios/Uart_Video.mp4
+
+### GPIO Video
+- ./vedios/GPIO_video.mp4
+>>>>>>> df9e1bc (Task commit)
